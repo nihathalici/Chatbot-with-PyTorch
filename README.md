@@ -1,4 +1,4 @@
-# Chatbot-with-PyTorch
+# Chatbot with PyTorch
 
 This is my repo following the tutorial "Chatbot with PyTorch - NLP and Deep Learning" by Patrick Löber.
 
