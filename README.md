@@ -21,6 +21,7 @@ Links and Appendix
 ========================================================
 
 - YouTube Channel: https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg
+- Good implementation: https://studentsxstudents.com/creating-a-chatbot-with-pytorch-495622d77481
 
 
 GitHub
