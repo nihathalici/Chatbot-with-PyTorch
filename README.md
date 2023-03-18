@@ -6,7 +6,7 @@ This is my repo following the tutorial "Chatbot with PyTorch - NLP and Deep Lear
 * **[Part II:](https://github.com/nihathalici/Chatbot-with-PyTorch/tree/main/Part-02)** Create training data
 * **[Part III:](https://github.com/nihathalici/Chatbot-with-PyTorch/tree/main/Part-03)** PyTorch model and training
 * **[Part IV:](https://github.com/nihathalici/Chatbot-with-PyTorch/tree/main/Part-04)** Save/load model and implement the chat
-* BONUS: GUI with Tkinter
+* **[BONUS:](https://github.com/nihathalici/Chatbot-with-PyTorch/tree/main/Part-05)** GUI with Tkinter
 * BONUS: Deployment with Flask
 
 
@@ -14,6 +14,7 @@ This is my repo following the tutorial "Chatbot with PyTorch - NLP and Deep Lear
 Sample Outputs
 ========================================================
 
+![Tkinter App Chat](https://github.com/nihathalici/Chatbot-with-PyTorch/blob/main/screenshots/tkinter_app_chat.png)
 ![CLI Chat](https://github.com/nihathalici/Chatbot-with-PyTorch/blob/main/screenshots/CLI_chat.png)
 ![Training Loop](https://github.com/nihathalici/Chatbot-with-PyTorch/blob/main/screenshots/training_loop.png)
 
