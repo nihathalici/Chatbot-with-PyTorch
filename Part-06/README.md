@@ -1,6 +1,6 @@
 # Chatbot with PyTorch | Part-06
 
-* Integrate the chatbot to a website (Python & JavaScript)
+* Deployment with Flask: Integrate the chatbot to a website (Python & JavaScript)
 
 Links and Appendix
 ========================================================
