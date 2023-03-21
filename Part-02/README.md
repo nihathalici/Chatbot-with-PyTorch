@@ -2,6 +2,11 @@
 
 * Create trainings data
 
+Sample Output
+========================================================
+
+![Training Loop](https://github.com/nihathalici/Chatbot-with-PyTorch/blob/main/screenshots/training_loop.png)
+
 
 Links and Appendix
 ========================================================
