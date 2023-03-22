@@ -2,6 +2,11 @@
 
 * Save/load model and implement the chat
 
+Sample Outputs
+========================================================
+
+![CLI Chat](https://github.com/nihathalici/Chatbot-with-PyTorch/blob/main/screenshots/CLI_chat.png)
+
 Links and Appendix
 ========================================================
 
