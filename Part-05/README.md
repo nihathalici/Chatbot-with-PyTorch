@@ -2,6 +2,13 @@
 
 * GUI with Tkinter
 
+
+Sample Outputs
+========================================================
+
+![Tkinter App Chat](https://github.com/nihathalici/Chatbot-with-PyTorch/blob/main/screenshots/tkinter_app_chat.png)
+
+
 Links and Appendix
 ========================================================
 
