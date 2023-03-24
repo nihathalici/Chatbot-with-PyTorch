@@ -2,6 +2,12 @@
 
 * Deployment with Flask: Integrate the chatbot to a website (Python & JavaScript)
 
+Sample Outputs
+========================================================
+
+![Deployment with Flask](https://github.com/nihathalici/Chatbot-with-PyTorch/blob/main/screenshots/deployment_with_flask.png)
+
+
 Links and Appendix
 ========================================================
 
